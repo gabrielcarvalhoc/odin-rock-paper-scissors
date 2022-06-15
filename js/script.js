@@ -32,13 +32,17 @@ function playRound(playerSelection, computerSelection) {
             return 'It\'s a Tie';
         }
     } else {
-        return 'Choose between "rock", "paper" or "scissors"!';
+        return 'Invalid input';
     }
 }
 
-const playerSelection = 'sCIssOrs';
-const computerSelection = computerPlay();
-console.log(playRound(playerSelection, computerSelection));
+function game() {
+    for (let i = 0; i < 5; i++) {
+        const playerSelection = prompt('Choose between "rock", "paper" or "scissors"');
+        const computerSelection = computerPlay();
+        console.log(playRound(playerSelection, computerSelection));
+        console.log(`You selected: ${playerSelection.toLowerCase()}\nComputer selected: ${computerSelection}`);
+    };
+}
 
-// Test selections
-console.log(`You selected: ${playerSelection.toLowerCase()}\nComputer selected: ${computerSelection}`);
+game();
