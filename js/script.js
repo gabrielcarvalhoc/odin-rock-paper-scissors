@@ -41,6 +41,18 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
+const buttons = document.querySelectorAll('button');
+
+buttons.forEach((button) => {
+
+    button.addEventListener('click', () => {  
+        const playerSelection = button.id;
+        const computerSelection = computerPlay();
+        playRound(playerSelection, computerSelection);
+    });
+});
+
+/*
 function game() {
     for (let i = 0; i < 5; i++) {
         const playerSelection = prompt('Choose between "rock", "paper" or "scissors"').toLowerCase();
@@ -58,3 +70,4 @@ function game() {
 }
 
 game();
+*/
