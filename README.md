@@ -6,11 +6,11 @@ Você pode conferir o projeto em: [Rock Paper Scissors](https://gabrielcarvalhoc
 
 Link do Desafio: [Project Rock Paper Scissors - Part 1](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) / [Project Rock Paper Scissors - Part 2](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
-![image-20220621202024474](/home/gabriel/.config/Typora/typora-user-images/image-20220621202024474.png)
+![image](https://user-images.githubusercontent.com/82124316/174913246-f7516d14-49be-4401-9990-bc9b3b4cdc0e.png)
 
-![image-20220621202153280](/home/gabriel/.config/Typora/typora-user-images/image-20220621202153280.png)
+![image](https://user-images.githubusercontent.com/82124316/174913345-5e5c6bd1-a0c0-44d6-9d47-98663de50210.png)
 
-![image-20220621202323785](/home/gabriel/.config/Typora/typora-user-images/image-20220621202323785.png)
+![image](https://user-images.githubusercontent.com/82124316/174913112-90745907-a9c7-4d92-b8e8-83ee238fb626.png)
 
 Para a elaboração do projeto, utilizei:
 
@@ -20,4 +20,4 @@ Para a elaboração do projeto, utilizei:
 
 Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
 
-## ## :rocket:
+## :rocket:
