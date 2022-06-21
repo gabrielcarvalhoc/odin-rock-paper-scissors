@@ -54,10 +54,10 @@ function showScore() {
         score.textContent = `Player ${playerScore} x ${computerScore} Computer`;
     } else if (playerScore === 5) {
         score.textContent = `Player ${playerScore} x ${computerScore} Computer`;
-        winner.textContent = 'Congrats! You Win the Game!'
+        winner.textContent = 'Congrats! You Win the Game!';
     } else if (computerScore === 5) {
         score.textContent = `Player ${playerScore} x ${computerScore} Computer`;
-        winner.textContent = 'Oh No! You Lose the Game! Try again!'
+        winner.textContent = 'Oh No! You Lose the Game! Refresh the Page and Try Again!';
     }
 }
 
