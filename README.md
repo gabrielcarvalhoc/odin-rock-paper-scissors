@@ -1,6 +1,10 @@
 # Rock Paper Scissors :fist: :raised_hand_with_fingers_splayed: :v:
 
-Seja bem vindo! Neste terceiro desafio do Treinamento "The Odin Project", desenvolvi o famoso jogo "Pedra, Papel e Tesoura". Nele, você joga contra o computador e quem atingir 5 pontos primeiro vence o jogo.
+Seja bem vindo! Neste terceiro desafio do Treinamento "The Odin Project", desenvolvi o famoso jogo "Pedra, Papel e Tesoura".
+
+A cada rodada, o computador escolhe uma opção aleatoriamente e você deve escolher a sua clicando na opção desejada. Quem atingir 5 pontos primeiro, vence a partida. 
+
+Na tela, é mostrado o resultado da rodada, o placar parcial e, no fim, o vencedor. Implementei, ainda, botões com desenhos de cada opção e um visual adaptado a jogos, para uma experiência mais agradável.
 
 Você pode conferir o projeto em: [Rock Paper Scissors](https://gabrielcarvalhoc.github.io/odin-rock-paper-scissors/)
 
